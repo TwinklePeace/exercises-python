@@ -21,7 +21,7 @@ theory: |
 
   ```python
   dollars_per_euro = 1.25
-  roubles_per_dollar = 60
+  rubles_per_dollar = 60
 
   euros_count = 1000
   dollars_count = euros_count * dollars_per_euro     # 1250.0
